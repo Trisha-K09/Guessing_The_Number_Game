@@ -1,0 +1,21 @@
+*{
+    background-color:black;
+}
+    h1{
+    color:blue;
+}
+#guessnumber{
+    margin:5px;
+    border-color:blue;
+    border-width:5px;
+    border-style:dotter;
+}
+button{
+    margin:5px;
+    border-color:blue;
+    border-width:5px;
+    border-style:dotter;
+}
+p{
+    color:green;
+}
